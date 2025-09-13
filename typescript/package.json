@@ -1,0 +1,15 @@
+{
+  "name": "marc-tools-ts",
+  "version": "0.1.0",
+  "description": "TypeScript utilities for MARC21 records based on LoC specs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
